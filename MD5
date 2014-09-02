@@ -1,12 +1,12 @@
-b3f0d687d6ce03cc1c6014e7d771d76c *DESCRIPTION
+127721b30ce0d3b9e651b5ebd91d9cfe *DESCRIPTION
 728eb6db4e26e38a0120e910b4a6e3f2 *LICENSE
 4159966ec0ce26fa43ed9b931e44745f *NAMESPACE
 24632b4636bebd0df1c148f0b83dbf6e *R/easingr-package.R
 0100d2278fc6f2cff3cdb9244afbcd99 *R/easingr.R
 4e50833586a0a711f01a7dd94ea4ed84 *R/plots.R
-423c1992d5e06230fcb6bdddca4443e8 *README.md
+29b9ef6ad53b515d878560e0f2b2c6fc *README.md
 3b3da76936415d22b15a2e3971f3d620 *inst/doc/easingr.pdf
-88557bb857b6309f05f4f7c65bc67c32 *inst/doc/index.html
+2fcbfa94af624951d6957f4e9be77f04 *inst/doc/index.html
 3a86a50c3f7d0179e6e26e7134f3ae49 *man/easingAreaChart.Rd
 40f87f9e327ad2f57c95fee3743779e1 *man/easingLineChart.Rd
 b724e16cf289a2b902c8bfac099f0d54 *man/easingr.Rd
